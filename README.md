@@ -34,54 +34,6 @@ JobConnect is a full-stack job portal platform that bridges job seekers with emp
 
 ---
 
-## Team Members
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/KareemH-1">
-        <img src="https://github.com/KareemH-1.png" width="80" style="border-radius:50%;" alt="Kareem Ahmed"/><br />
-        <sub><b>Kareem Ahmed</b></sub>
-      </a><br />
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/MazenMDev">
-        <img src="https://github.com/MazenMDev.png" width="80" style="border-radius:50%;" alt="Mazen Mahmoud"/><br />
-        <sub><b>Mazen Mahmoud</b></sub>
-      </a><br />
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/Zoomacs">
-        <img src="https://github.com/Zoomacs.png" width="80" style="border-radius:50%;" alt="Hazem Hisham"/><br />
-        <sub><b>Hazem Hisham</b></sub>
-      </a><br />
-    </td>
-  </tr>
-  <br/>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/mostafamohamedsaeed152">
-        <img src="https://github.com/mostafamohamedsaeed152.png" width="80" style="border-radius:50%;" alt="Mostafa Mohammed"/><br />
-        <sub><b>Mostafa Mohammed</b></sub>
-      </a><br />
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/Mohanadyasser-eng">
-        <img src="https://github.com/Mohanadyasser-eng.png" width="80" style="border-radius:50%;" alt="Mohanad Yasser"/><br />
-        <sub><b>Mohanad Yasser</b></sub>
-      </a><br />
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/pharoah4ee">
-        <img src="https://github.com/MostafaAbdallah-eng.png" width="80" style="border-radius:50%;" alt="Mostafa Abdullah"/><br />
-        <sub><b>Mostafa Abdullah</b></sub>
-      </a><br />
-    </td>
-  </tr>
-</table>
-
----
-
 ## Features
 
 ### Job Seekers
